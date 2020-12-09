@@ -1,0 +1,14 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "php.executablePath":"C:/xampp70/php/php.exe",
+    "php.validate.executablePath": "C:/xampp70/php/php.exe",
+    "terminal.integrated.shell.windows": "C:/Windows/System32/cmd.exe",
+    "window.zoomLevel": 0,
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Activate SCARLET protocol (beta)",
+    "breadcrumbs.enabled": true,
+    "php-cs-fixer.executablePath": "${extensionPath}\\php-cs-fixer.phar"
+
+    
+}
